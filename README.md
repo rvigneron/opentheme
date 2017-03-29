@@ -1,6 +1,6 @@
 # OpenTheme
 
-Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages.
+Powerful new theme featuring Semantic UI for speedily creating amazing websites and mobile-hybrid apps on GitHub Pages. test rv gh-pages
 
 View live demo and docs at http://opentheme.co 
 
